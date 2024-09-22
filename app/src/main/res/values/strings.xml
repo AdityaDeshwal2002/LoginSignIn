@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_page">Login Page</string>
+    <string name="user_Name">Name</string>
+    <string name="userPassword">Password</string>
+    <string name="bt_login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sign_page">Sign Page</string>
+    <string name="bt_signin">Sign In</string>
+</resources>
